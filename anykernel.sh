@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Flower Kernel by FlowerSea0208
+kernel.string=Flower Kernel with KernelSU by FlowerSea0208,miwu04
 do.devicecheck=1
 do.modules=0
 do.systemless=1
